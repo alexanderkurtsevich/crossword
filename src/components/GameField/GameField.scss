@@ -1,0 +1,10 @@
+.game-field-wrap {
+    width: 90%;
+    display: flex;
+    overflow: auto;
+    height: auto;
+}
+
+.game-field {
+    display: grid;
+}
